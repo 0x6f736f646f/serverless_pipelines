@@ -25,7 +25,7 @@ google-resumable-media==0.3.2
 googleapis-common-protos==1.5.6
 googledatastore==7.0.2
 grpc-google-iam-v1==0.11.4
-grpcio==1.18.0
+grpcio==1.20.1
 hdfs==2.2.2
 httplib2==0.11.3
 idna==2.8
