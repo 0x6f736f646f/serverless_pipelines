@@ -44,7 +44,7 @@ proto-google-cloud-datastore-v1==0.90.4
 protobuf==3.7.1
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
-pydot==1.2.4
+pydot==1.4.1
 Pygments==2.3.1
 PyHamcrest==1.9.0
 pyparsing==2.3.1
